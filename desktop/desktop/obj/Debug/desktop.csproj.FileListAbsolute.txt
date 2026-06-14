@@ -1,0 +1,10 @@
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\bin\Debug\desktop.exe.config
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\bin\Debug\desktop.exe
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\bin\Debug\desktop.pdb
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\obj\Debug\desktop.Form1.resources
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\obj\Debug\desktop.exe
+C:\Users\Maciek\Desktop\ostatni\desktop\desktop\obj\Debug\desktop.pdb
